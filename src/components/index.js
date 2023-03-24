@@ -1,0 +1,7 @@
+export {default as Home } from './Home'
+export {default as NavbarTop } from './NavbarTop'
+export {default as SideNavbar } from './SideNavbar'
+export {default as Users } from './Users'
+export {default as AddCustomer } from './AddCustomer'
+export {default as About } from './About'
+export {default as EditUser } from './EditUser'
