@@ -91,7 +91,10 @@ const About = () => {
             <i className="dark:text-white text-black">{empdata.descrip}</i>
           </span>
           <span className="flex">
-            Narx : <h2 className="pl-2">{empdata.summa}so'm</h2>
+            Narx : <b className="pl-2">{empdata.summa}so'm</b>
+          </span>
+          <span className="flex">
+            Sana : <b className="pl-2">{empdata.date}</b>
           </span>
         </p>
         <div className="flex justify-between">
